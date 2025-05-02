@@ -88,6 +88,12 @@ target/
 
 # Exclude virtual environment
 .venv/
+*.html
+*.pdf
+*.xml
+*.tif
+*.tiff
+*.csv
 
 # Exclude trained models
 /models/
